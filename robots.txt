@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seoheroph.github.io/dentist-near-me-chin-1bb64/sitemap.xml
